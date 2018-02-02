@@ -3,10 +3,8 @@ These are exercises querying the Chinook Database utilizing SQLite and DB Browse
 
 [Check Out the Chinook Database on Codeplex](https://chinookdatabase.codeplex.com/)
 
-### ERD
-Here is the ERD for the database
+[ERD can be found here](https://cloud.githubusercontent.com/assets/23462252/23724709/59d83bb0-0413-11e7-935c-b20bee8b31cc.jpg)
 
-![chinook-erd](https://cloud.githubusercontent.com/assets/23462252/23724709/59d83bb0-0413-11e7-935c-b20bee8b31cc.jpg)
 
 ### Queries
 Look in the `sql` directory for all the SQL files and queries. Each file contains a specific data extraction objective. 
